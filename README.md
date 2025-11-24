@@ -15,3 +15,5 @@ pip install -r requirements.txt
 ```
 python index.py videos/meuvideo.mp4
 ```
+
+<img src="assets/img gost.jpg">
